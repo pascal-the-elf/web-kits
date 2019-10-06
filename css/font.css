@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:500&display=swap');
 * {
     font-family: 'Quicksand', Verdana, '微軟正黑體', 'Microsoft JhengHei', 'PingFang', sans-serif;
+    letter-spacing: 1px;
 }
