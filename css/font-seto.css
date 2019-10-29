@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "seto";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://pascal-the-elf.github.io/wk-font/chinese/setofont.ttf");
+}
+* {
+    font-family: "seto", Verdana, '微軟正黑體', 'Microsoft JhengHei', 'PingFang', sans-serif;
+    letter-spacing: 1px;
+}
